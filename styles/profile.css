@@ -1,0 +1,15 @@
+.photo {
+  width: 500px;
+  height: 500px;
+  float: left;
+  overflow: hidden;
+  background-size:cover;
+  background-position:center center;
+  background-repeat:no-repeat;
+}
+.info {
+  padding-left: 20px;
+  background-color: #ccc;
+  font-size: 20px;
+  height: 500px;
+}

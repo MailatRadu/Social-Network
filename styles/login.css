@@ -1,0 +1,40 @@
+body {
+  background-image: url('../photos/background.jpg');
+  color: white;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+.login {
+  border: 4px solid white;
+  border-radius: 5%;
+  width:500px;
+  margin: 12px auto;
+  padding: 20px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.login h2 {
+  font-size: 36px;
+}
+
+p {
+  padding: 10px;
+}
+
+input {
+  border-radius: 5px;
+  padding: 5px 0;
+}
+ .submit {
+   width: 100px;
+ }
+
+a {
+  color: white;
+  text-decoration: none;
+}

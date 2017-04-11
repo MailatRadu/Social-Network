@@ -1,1 +1,41 @@
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}
 
+nav {
+  background-color: #333;
+  margin: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: left;
+}
+
+nav li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+
+nav form{
+  float: right;
+  padding: 14px 16px;
+}
+
+input {
+  padding: 2.5px 2.5px;
+  border-radius: 5px;
+  text-indent: 3px;
+}
+
+nav a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px 16px;
+  text-decoration: none;
+  font-size: 18px;
+}
